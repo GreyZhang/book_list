@@ -89,6 +89,7 @@
 - SICP(计算机构造与解析)
 - 模拟电子 - 童诗白、华成英
 - 人月神话 - Fred Brooks
+- PC Assembly Language - Paul A. Carter
 ** U 交通运输
 ** V 航空、航天
 ** X 环境科学、安全科学
