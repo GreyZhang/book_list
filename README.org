@@ -130,3 +130,7 @@
 - 24只胡萝卜的管理 - 艾德里安.高斯迪克
 - 白鹿原- 陈忠实
 - 小时候读过的两本书-了凡四训-因是子
+- Essentials Bash V1
+- MagPi01
+- Essentials GPIOZero v1
+- Essentials C v1
